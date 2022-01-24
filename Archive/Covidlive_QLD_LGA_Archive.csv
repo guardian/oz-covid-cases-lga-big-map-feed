@@ -1,0 +1,881 @@
+DATE,CASES,LGA
+2021-12-31,4560.0,Brisbane
+2021-12-30,3564.0,Brisbane
+2021-12-29,2950.0,Brisbane
+2021-12-28,2493.0,Brisbane
+2021-12-27,2139.0,Brisbane
+2021-12-25,1664.0,Brisbane
+2021-12-24,1397.0,Brisbane
+2021-12-23,1192.0,Brisbane
+2021-12-22,1030.0,Brisbane
+2021-12-21,961.0,Brisbane
+2021-12-20,935.0,Brisbane
+2021-12-31,1967.0,Gold Coast
+2021-12-30,1499.0,Gold Coast
+2021-12-29,1234.0,Gold Coast
+2021-12-28,964.0,Gold Coast
+2021-12-27,785.0,Gold Coast
+2021-12-25,586.0,Gold Coast
+2021-12-24,496.0,Gold Coast
+2021-12-23,411.0,Gold Coast
+2021-12-22,356.0,Gold Coast
+2021-12-21,333.0,Gold Coast
+2021-12-20,316.0,Gold Coast
+2021-12-31,1253.0,Not Supplied
+2021-12-30,910.0,Not Supplied
+2021-12-29,620.0,Not Supplied
+2021-12-28,453.0,Not Supplied
+2021-12-27,358.0,Not Supplied
+2021-12-25,235.0,Not Supplied
+2021-12-24,169.0,Not Supplied
+2021-12-23,118.0,Not Supplied
+2021-12-22,96.0,Not Supplied
+2021-12-21,75.0,Not Supplied
+2021-12-20,73.0,Not Supplied
+2021-12-31,960.0,Logan
+2021-12-30,727.0,Logan
+2021-12-29,541.0,Logan
+2021-12-28,445.0,Logan
+2021-12-27,346.0,Logan
+2021-12-25,212.0,Logan
+2021-12-24,162.0,Logan
+2021-12-23,120.0,Logan
+2021-12-22,105.0,Logan
+2021-12-21,98.0,Logan
+2021-12-20,93.0,Logan
+2021-12-31,592.0,Ipswich
+2021-12-30,456.0,Ipswich
+2021-12-29,342.0,Ipswich
+2021-12-28,256.0,Ipswich
+2021-12-27,198.0,Ipswich
+2021-12-25,132.0,Ipswich
+2021-12-24,119.0,Ipswich
+2021-12-23,104.0,Ipswich
+2021-12-22,91.0,Ipswich
+2021-12-21,81.0,Ipswich
+2021-12-20,77.0,Ipswich
+2021-12-31,533.0,Sunshine Coast
+2021-12-30,450.0,Sunshine Coast
+2021-12-29,363.0,Sunshine Coast
+2021-12-28,314.0,Sunshine Coast
+2021-12-27,275.0,Sunshine Coast
+2021-12-25,192.0,Sunshine Coast
+2021-12-24,150.0,Sunshine Coast
+2021-12-23,122.0,Sunshine Coast
+2021-12-22,111.0,Sunshine Coast
+2021-12-21,108.0,Sunshine Coast
+2021-12-20,106.0,Sunshine Coast
+2021-12-31,649.0,Moreton Bay
+2021-12-30,505.0,Moreton Bay
+2021-12-29,395.0,Moreton Bay
+2021-12-28,337.0,Moreton Bay
+2021-12-27,286.0,Moreton Bay
+2021-12-25,220.0,Moreton Bay
+2021-12-24,189.0,Moreton Bay
+2021-12-23,176.0,Moreton Bay
+2021-12-22,166.0,Moreton Bay
+2021-12-21,154.0,Moreton Bay
+2021-12-20,154.0,Moreton Bay
+2021-12-31,1124.0,Interstate/other
+2021-12-30,910.0,Interstate/other
+2021-12-29,711.0,Interstate/other
+2021-12-28,585.0,Interstate/other
+2021-12-27,486.0,Interstate/other
+2021-12-25,380.0,Interstate/other
+2021-12-24,322.0,Interstate/other
+2021-12-23,277.0,Interstate/other
+2021-12-22,241.0,Interstate/other
+2021-12-21,223.0,Interstate/other
+2021-12-20,217.0,Interstate/other
+2021-12-31,173.0,Cairns
+2021-12-30,133.0,Cairns
+2021-12-29,110.0,Cairns
+2021-12-28,96.0,Cairns
+2021-12-27,84.0,Cairns
+2021-12-25,79.0,Cairns
+2021-12-24,68.0,Cairns
+2021-12-23,67.0,Cairns
+2021-12-22,64.0,Cairns
+2021-12-21,60.0,Cairns
+2021-12-20,57.0,Cairns
+2021-12-31,368.0,Toowoomba
+2021-12-30,312.0,Toowoomba
+2021-12-29,233.0,Toowoomba
+2021-12-28,157.0,Toowoomba
+2021-12-27,99.0,Toowoomba
+2021-12-25,77.0,Toowoomba
+2021-12-24,69.0,Toowoomba
+2021-12-23,62.0,Toowoomba
+2021-12-22,56.0,Toowoomba
+2021-12-21,56.0,Toowoomba
+2021-12-20,56.0,Toowoomba
+2021-12-31,80.0,Mackay
+2021-12-30,58.0,Mackay
+2021-12-29,49.0,Mackay
+2021-12-28,41.0,Mackay
+2021-12-27,38.0,Mackay
+2021-12-25,31.0,Mackay
+2021-12-24,28.0,Mackay
+2021-12-23,26.0,Mackay
+2021-12-22,25.0,Mackay
+2021-12-21,25.0,Mackay
+2021-12-20,24.0,Mackay
+2021-12-31,129.0,Townsville
+2021-12-30,114.0,Townsville
+2021-12-29,92.0,Townsville
+2021-12-28,78.0,Townsville
+2021-12-27,63.0,Townsville
+2021-12-25,52.0,Townsville
+2021-12-24,45.0,Townsville
+2021-12-23,40.0,Townsville
+2021-12-22,38.0,Townsville
+2021-12-21,37.0,Townsville
+2021-12-20,36.0,Townsville
+2021-12-31,81.0,Fraser Coast
+2021-12-30,47.0,Fraser Coast
+2021-12-29,37.0,Fraser Coast
+2021-12-28,31.0,Fraser Coast
+2021-12-27,27.0,Fraser Coast
+2021-12-25,20.0,Fraser Coast
+2021-12-24,20.0,Fraser Coast
+2021-12-23,18.0,Fraser Coast
+2021-12-22,18.0,Fraser Coast
+2021-12-21,18.0,Fraser Coast
+2021-12-20,17.0,Fraser Coast
+2021-12-31,307.0,Redland
+2021-12-30,221.0,Redland
+2021-12-29,163.0,Redland
+2021-12-28,140.0,Redland
+2021-12-27,117.0,Redland
+2021-12-25,78.0,Redland
+2021-12-24,66.0,Redland
+2021-12-23,53.0,Redland
+2021-12-22,46.0,Redland
+2021-12-21,41.0,Redland
+2021-12-20,41.0,Redland
+2021-12-31,253.0,Noosa
+2021-12-30,193.0,Noosa
+2021-12-29,173.0,Noosa
+2021-12-28,148.0,Noosa
+2021-12-27,126.0,Noosa
+2021-12-25,90.0,Noosa
+2021-12-24,54.0,Noosa
+2021-12-23,36.0,Noosa
+2021-12-22,33.0,Noosa
+2021-12-21,25.0,Noosa
+2021-12-20,24.0,Noosa
+2021-12-31,126.0,Whitsunday
+2021-12-30,87.0,Whitsunday
+2021-12-29,48.0,Whitsunday
+2021-12-28,31.0,Whitsunday
+2021-12-27,23.0,Whitsunday
+2021-12-25,15.0,Whitsunday
+2021-12-24,12.0,Whitsunday
+2021-12-23,10.0,Whitsunday
+2021-12-22,9.0,Whitsunday
+2021-12-21,9.0,Whitsunday
+2021-12-20,9.0,Whitsunday
+2021-12-31,61.0,Rockhampton
+2021-12-30,57.0,Rockhampton
+2021-12-29,36.0,Rockhampton
+2021-12-28,34.0,Rockhampton
+2021-12-27,28.0,Rockhampton
+2021-12-25,23.0,Rockhampton
+2021-12-24,23.0,Rockhampton
+2021-12-23,23.0,Rockhampton
+2021-12-22,22.0,Rockhampton
+2021-12-21,22.0,Rockhampton
+2021-12-20,22.0,Rockhampton
+2021-12-31,196.0,Bundaberg
+2021-12-30,173.0,Bundaberg
+2021-12-29,160.0,Bundaberg
+2021-12-28,135.0,Bundaberg
+2021-12-27,120.0,Bundaberg
+2021-12-25,71.0,Bundaberg
+2021-12-24,44.0,Bundaberg
+2021-12-23,26.0,Bundaberg
+2021-12-22,21.0,Bundaberg
+2021-12-21,21.0,Bundaberg
+2021-12-20,21.0,Bundaberg
+2021-12-31,44.0,Gladstone
+2021-12-30,34.0,Gladstone
+2021-12-29,30.0,Gladstone
+2021-12-28,24.0,Gladstone
+2021-12-27,23.0,Gladstone
+2021-12-25,16.0,Gladstone
+2021-12-24,15.0,Gladstone
+2021-12-23,10.0,Gladstone
+2021-12-22,9.0,Gladstone
+2021-12-21,9.0,Gladstone
+2021-12-20,9.0,Gladstone
+2021-12-31,18.0,South Burnett
+2021-12-30,5.0,South Burnett
+2021-12-29,4.0,South Burnett
+2021-12-28,4.0,South Burnett
+2021-12-27,4.0,South Burnett
+2021-12-25,4.0,South Burnett
+2021-12-24,3.0,South Burnett
+2021-12-23,3.0,South Burnett
+2021-12-22,3.0,South Burnett
+2021-12-21,3.0,South Burnett
+2021-12-20,3.0,South Burnett
+2021-12-31,46.0,Lockyer Valley
+2021-12-30,27.0,Lockyer Valley
+2021-12-29,19.0,Lockyer Valley
+2021-12-28,17.0,Lockyer Valley
+2021-12-27,13.0,Lockyer Valley
+2021-12-25,11.0,Lockyer Valley
+2021-12-24,11.0,Lockyer Valley
+2021-12-23,6.0,Lockyer Valley
+2021-12-22,6.0,Lockyer Valley
+2021-12-21,6.0,Lockyer Valley
+2021-12-20,7.0,Lockyer Valley
+2021-12-31,38.0,Gympie
+2021-12-30,26.0,Gympie
+2021-12-29,23.0,Gympie
+2021-12-28,16.0,Gympie
+2021-12-27,13.0,Gympie
+2021-12-25,11.0,Gympie
+2021-12-24,9.0,Gympie
+2021-12-23,8.0,Gympie
+2021-12-22,6.0,Gympie
+2021-12-21,6.0,Gympie
+2021-12-20,6.0,Gympie
+2021-12-31,9.0,Isaac
+2021-12-30,7.0,Isaac
+2021-12-29,6.0,Isaac
+2021-12-28,6.0,Isaac
+2021-12-27,6.0,Isaac
+2021-12-25,4.0,Isaac
+2021-12-24,0.0,Isaac
+2021-12-23,0.0,Isaac
+2021-12-22,0.0,Isaac
+2021-12-21,0.0,Isaac
+2021-12-20,0.0,Isaac
+2021-12-31,6.0,Hinchinbrook
+2021-12-30,3.0,Hinchinbrook
+2021-12-29,3.0,Hinchinbrook
+2021-12-28,3.0,Hinchinbrook
+2021-12-27,1.0,Hinchinbrook
+2021-12-25,1.0,Hinchinbrook
+2021-12-24,1.0,Hinchinbrook
+2021-12-23,1.0,Hinchinbrook
+2021-12-22,1.0,Hinchinbrook
+2021-12-21,1.0,Hinchinbrook
+2021-12-20,1.0,Hinchinbrook
+2021-12-31,26.0,Livingstone
+2021-12-30,24.0,Livingstone
+2021-12-29,24.0,Livingstone
+2021-12-28,10.0,Livingstone
+2021-12-27,8.0,Livingstone
+2021-12-25,7.0,Livingstone
+2021-12-24,6.0,Livingstone
+2021-12-23,4.0,Livingstone
+2021-12-22,4.0,Livingstone
+2021-12-21,3.0,Livingstone
+2021-12-20,3.0,Livingstone
+2021-12-31,8.0,Cassowary Coast
+2021-12-30,8.0,Cassowary Coast
+2021-12-29,7.0,Cassowary Coast
+2021-12-28,6.0,Cassowary Coast
+2021-12-27,4.0,Cassowary Coast
+2021-12-25,4.0,Cassowary Coast
+2021-12-24,3.0,Cassowary Coast
+2021-12-23,3.0,Cassowary Coast
+2021-12-22,3.0,Cassowary Coast
+2021-12-21,3.0,Cassowary Coast
+2021-12-20,3.0,Cassowary Coast
+2021-12-31,12.0,Cherbourg
+2021-12-30,3.0,Cherbourg
+2021-12-29,0.0,Cherbourg
+2021-12-28,0.0,Cherbourg
+2021-12-27,0.0,Cherbourg
+2021-12-25,0.0,Cherbourg
+2021-12-24,0.0,Cherbourg
+2021-12-23,0.0,Cherbourg
+2021-12-22,0.0,Cherbourg
+2021-12-21,0.0,Cherbourg
+2021-12-20,0.0,Cherbourg
+2021-12-31,15.0,Somerset
+2021-12-30,15.0,Somerset
+2021-12-29,14.0,Somerset
+2021-12-28,11.0,Somerset
+2021-12-27,10.0,Somerset
+2021-12-25,8.0,Somerset
+2021-12-24,7.0,Somerset
+2021-12-23,6.0,Somerset
+2021-12-22,6.0,Somerset
+2021-12-21,6.0,Somerset
+2021-12-20,6.0,Somerset
+2021-12-31,32.0,Southern Downs
+2021-12-30,29.0,Southern Downs
+2021-12-29,18.0,Southern Downs
+2021-12-28,17.0,Southern Downs
+2021-12-27,16.0,Southern Downs
+2021-12-25,14.0,Southern Downs
+2021-12-24,10.0,Southern Downs
+2021-12-23,6.0,Southern Downs
+2021-12-22,4.0,Southern Downs
+2021-12-21,4.0,Southern Downs
+2021-12-20,4.0,Southern Downs
+2021-12-31,23.0,Western Downs
+2021-12-30,18.0,Western Downs
+2021-12-29,16.0,Western Downs
+2021-12-28,14.0,Western Downs
+2021-12-27,13.0,Western Downs
+2021-12-25,9.0,Western Downs
+2021-12-24,7.0,Western Downs
+2021-12-23,3.0,Western Downs
+2021-12-22,3.0,Western Downs
+2021-12-21,3.0,Western Downs
+2021-12-20,3.0,Western Downs
+2021-12-31,1.0,Cook
+2021-12-30,1.0,Cook
+2021-12-29,1.0,Cook
+2021-12-28,1.0,Cook
+2021-12-27,1.0,Cook
+2021-12-25,1.0,Cook
+2021-12-24,0.0,Cook
+2021-12-23,0.0,Cook
+2021-12-22,0.0,Cook
+2021-12-21,0.0,Cook
+2021-12-20,0.0,Cook
+2021-12-31,34.0,Scenic Rim
+2021-12-30,25.0,Scenic Rim
+2021-12-29,21.0,Scenic Rim
+2021-12-28,17.0,Scenic Rim
+2021-12-27,16.0,Scenic Rim
+2021-12-25,13.0,Scenic Rim
+2021-12-24,9.0,Scenic Rim
+2021-12-23,7.0,Scenic Rim
+2021-12-22,7.0,Scenic Rim
+2021-12-21,7.0,Scenic Rim
+2021-12-20,6.0,Scenic Rim
+2021-12-31,12.0,Tablelands
+2021-12-30,8.0,Tablelands
+2021-12-29,8.0,Tablelands
+2021-12-28,6.0,Tablelands
+2021-12-27,6.0,Tablelands
+2021-12-25,5.0,Tablelands
+2021-12-24,4.0,Tablelands
+2021-12-23,4.0,Tablelands
+2021-12-22,4.0,Tablelands
+2021-12-21,4.0,Tablelands
+2021-12-20,4.0,Tablelands
+2021-12-31,25.0,Mareeba
+2021-12-30,24.0,Mareeba
+2021-12-29,23.0,Mareeba
+2021-12-28,22.0,Mareeba
+2021-12-27,19.0,Mareeba
+2021-12-25,15.0,Mareeba
+2021-12-24,9.0,Mareeba
+2021-12-23,7.0,Mareeba
+2021-12-22,7.0,Mareeba
+2021-12-21,5.0,Mareeba
+2021-12-20,5.0,Mareeba
+2021-12-31,12.0,Torres
+2021-12-30,12.0,Torres
+2021-12-29,1.0,Torres
+2021-12-28,1.0,Torres
+2021-12-27,1.0,Torres
+2021-12-25,1.0,Torres
+2021-12-24,1.0,Torres
+2021-12-23,1.0,Torres
+2021-12-22,1.0,Torres
+2021-12-21,1.0,Torres
+2021-12-20,1.0,Torres
+2021-12-31,0.0,Northern Peninsula Area
+2021-12-30,0.0,Northern Peninsula Area
+2021-12-29,0.0,Northern Peninsula Area
+2021-12-28,0.0,Northern Peninsula Area
+2021-12-27,0.0,Northern Peninsula Area
+2021-12-25,0.0,Northern Peninsula Area
+2021-12-24,0.0,Northern Peninsula Area
+2021-12-23,0.0,Northern Peninsula Area
+2021-12-22,0.0,Northern Peninsula Area
+2021-12-21,0.0,Northern Peninsula Area
+2021-12-20,0.0,Northern Peninsula Area
+2021-12-31,27.0,Douglas
+2021-12-30,13.0,Douglas
+2021-12-29,11.0,Douglas
+2021-12-28,10.0,Douglas
+2021-12-27,10.0,Douglas
+2021-12-25,10.0,Douglas
+2021-12-24,8.0,Douglas
+2021-12-23,4.0,Douglas
+2021-12-22,4.0,Douglas
+2021-12-21,3.0,Douglas
+2021-12-20,2.0,Douglas
+2021-12-31,16.0,Goondiwindi
+2021-12-30,16.0,Goondiwindi
+2021-12-29,16.0,Goondiwindi
+2021-12-28,15.0,Goondiwindi
+2021-12-27,15.0,Goondiwindi
+2021-12-25,13.0,Goondiwindi
+2021-12-24,13.0,Goondiwindi
+2021-12-23,10.0,Goondiwindi
+2021-12-22,9.0,Goondiwindi
+2021-12-21,9.0,Goondiwindi
+2021-12-20,8.0,Goondiwindi
+2021-12-31,11.0,Central Highlands
+2021-12-30,10.0,Central Highlands
+2021-12-29,10.0,Central Highlands
+2021-12-28,7.0,Central Highlands
+2021-12-27,7.0,Central Highlands
+2021-12-25,5.0,Central Highlands
+2021-12-24,3.0,Central Highlands
+2021-12-23,3.0,Central Highlands
+2021-12-22,2.0,Central Highlands
+2021-12-21,2.0,Central Highlands
+2021-12-20,1.0,Central Highlands
+2021-12-31,5.0,Maranoa
+2021-12-30,3.0,Maranoa
+2021-12-29,3.0,Maranoa
+2021-12-28,3.0,Maranoa
+2021-12-27,3.0,Maranoa
+2021-12-25,2.0,Maranoa
+2021-12-24,2.0,Maranoa
+2021-12-23,2.0,Maranoa
+2021-12-22,0.0,Maranoa
+2021-12-21,0.0,Maranoa
+2021-12-20,0.0,Maranoa
+2021-12-31,4.0,Mount Isa
+2021-12-30,3.0,Mount Isa
+2021-12-29,1.0,Mount Isa
+2021-12-28,0.0,Mount Isa
+2021-12-27,0.0,Mount Isa
+2021-12-25,0.0,Mount Isa
+2021-12-24,0.0,Mount Isa
+2021-12-23,0.0,Mount Isa
+2021-12-22,0.0,Mount Isa
+2021-12-21,0.0,Mount Isa
+2021-12-20,0.0,Mount Isa
+2021-12-31,1.0,Burdekin
+2021-12-30,1.0,Burdekin
+2021-12-29,0.0,Burdekin
+2021-12-28,0.0,Burdekin
+2021-12-27,0.0,Burdekin
+2021-12-25,0.0,Burdekin
+2021-12-24,0.0,Burdekin
+2021-12-23,0.0,Burdekin
+2021-12-22,0.0,Burdekin
+2021-12-21,0.0,Burdekin
+2021-12-20,0.0,Burdekin
+2021-12-31,0.0,Blackall-Tambo
+2021-12-30,0.0,Blackall-Tambo
+2021-12-29,0.0,Blackall-Tambo
+2021-12-28,0.0,Blackall-Tambo
+2021-12-27,0.0,Blackall-Tambo
+2021-12-25,0.0,Blackall-Tambo
+2021-12-24,0.0,Blackall-Tambo
+2021-12-23,0.0,Blackall-Tambo
+2021-12-22,0.0,Blackall-Tambo
+2021-12-21,0.0,Blackall-Tambo
+2021-12-20,0.0,Blackall-Tambo
+2021-12-31,3.0,Charters Towers
+2021-12-30,3.0,Charters Towers
+2021-12-29,3.0,Charters Towers
+2021-12-28,3.0,Charters Towers
+2021-12-27,3.0,Charters Towers
+2021-12-25,3.0,Charters Towers
+2021-12-24,3.0,Charters Towers
+2021-12-23,3.0,Charters Towers
+2021-12-22,3.0,Charters Towers
+2021-12-21,3.0,Charters Towers
+2021-12-20,3.0,Charters Towers
+2021-12-31,2.0,Murweh
+2021-12-30,2.0,Murweh
+2021-12-29,2.0,Murweh
+2021-12-28,0.0,Murweh
+2021-12-27,0.0,Murweh
+2021-12-25,0.0,Murweh
+2021-12-24,0.0,Murweh
+2021-12-23,0.0,Murweh
+2021-12-22,0.0,Murweh
+2021-12-21,0.0,Murweh
+2021-12-20,0.0,Murweh
+2021-12-31,0.0,Lockhart River
+2021-12-30,0.0,Lockhart River
+2021-12-29,0.0,Lockhart River
+2021-12-28,0.0,Lockhart River
+2021-12-27,0.0,Lockhart River
+2021-12-25,0.0,Lockhart River
+2021-12-24,0.0,Lockhart River
+2021-12-23,0.0,Lockhart River
+2021-12-22,0.0,Lockhart River
+2021-12-21,0.0,Lockhart River
+2021-12-20,0.0,Lockhart River
+2021-12-31,0.0,Quilpie
+2021-12-30,0.0,Quilpie
+2021-12-29,0.0,Quilpie
+2021-12-28,0.0,Quilpie
+2021-12-27,0.0,Quilpie
+2021-12-25,0.0,Quilpie
+2021-12-24,0.0,Quilpie
+2021-12-23,0.0,Quilpie
+2021-12-22,0.0,Quilpie
+2021-12-21,0.0,Quilpie
+2021-12-20,0.0,Quilpie
+2021-12-31,3.0,Banana
+2021-12-30,3.0,Banana
+2021-12-29,1.0,Banana
+2021-12-28,1.0,Banana
+2021-12-27,1.0,Banana
+2021-12-25,1.0,Banana
+2021-12-24,1.0,Banana
+2021-12-23,1.0,Banana
+2021-12-22,0.0,Banana
+2021-12-21,0.0,Banana
+2021-12-20,0.0,Banana
+2021-12-31,8.0,North Burnett
+2021-12-30,5.0,North Burnett
+2021-12-29,5.0,North Burnett
+2021-12-28,5.0,North Burnett
+2021-12-27,5.0,North Burnett
+2021-12-25,5.0,North Burnett
+2021-12-24,4.0,North Burnett
+2021-12-23,4.0,North Burnett
+2021-12-22,3.0,North Burnett
+2021-12-21,3.0,North Burnett
+2021-12-20,3.0,North Burnett
+2021-12-31,0.0,Palm Island
+2021-12-30,0.0,Palm Island
+2021-12-29,0.0,Palm Island
+2021-12-28,0.0,Palm Island
+2021-12-27,0.0,Palm Island
+2021-12-25,0.0,Palm Island
+2021-12-24,0.0,Palm Island
+2021-12-23,0.0,Palm Island
+2021-12-22,0.0,Palm Island
+2021-12-21,0.0,Palm Island
+2021-12-20,0.0,Palm Island
+2021-12-31,3.0,Paroo
+2021-12-30,3.0,Paroo
+2021-12-29,3.0,Paroo
+2021-12-28,2.0,Paroo
+2021-12-27,1.0,Paroo
+2021-12-25,1.0,Paroo
+2021-12-24,1.0,Paroo
+2021-12-23,0.0,Paroo
+2021-12-22,0.0,Paroo
+2021-12-21,0.0,Paroo
+2021-12-20,0.0,Paroo
+2021-12-31,2.0,Balonne
+2021-12-30,0.0,Balonne
+2021-12-29,0.0,Balonne
+2021-12-28,0.0,Balonne
+2021-12-27,0.0,Balonne
+2021-12-25,0.0,Balonne
+2021-12-24,0.0,Balonne
+2021-12-23,0.0,Balonne
+2021-12-22,0.0,Balonne
+2021-12-21,0.0,Balonne
+2021-12-20,0.0,Balonne
+2021-12-31,1.0,Longreach
+2021-12-30,1.0,Longreach
+2021-12-29,0.0,Longreach
+2021-12-28,0.0,Longreach
+2021-12-27,0.0,Longreach
+2021-12-25,0.0,Longreach
+2021-12-24,0.0,Longreach
+2021-12-23,0.0,Longreach
+2021-12-22,0.0,Longreach
+2021-12-21,0.0,Longreach
+2021-12-20,0.0,Longreach
+2021-12-31,2.0,Doomadgee
+2021-12-30,2.0,Doomadgee
+2021-12-29,2.0,Doomadgee
+2021-12-28,2.0,Doomadgee
+2021-12-27,1.0,Doomadgee
+2021-12-25,1.0,Doomadgee
+2021-12-24,1.0,Doomadgee
+2021-12-23,0.0,Doomadgee
+2021-12-22,0.0,Doomadgee
+2021-12-21,0.0,Doomadgee
+2021-12-20,0.0,Doomadgee
+2021-12-31,0.0,Cloncurry
+2021-12-30,0.0,Cloncurry
+2021-12-29,0.0,Cloncurry
+2021-12-28,0.0,Cloncurry
+2021-12-27,0.0,Cloncurry
+2021-12-25,0.0,Cloncurry
+2021-12-24,0.0,Cloncurry
+2021-12-23,0.0,Cloncurry
+2021-12-22,0.0,Cloncurry
+2021-12-21,0.0,Cloncurry
+2021-12-20,0.0,Cloncurry
+2021-12-31,0.0,Flinders
+2021-12-30,0.0,Flinders
+2021-12-29,0.0,Flinders
+2021-12-28,0.0,Flinders
+2021-12-27,0.0,Flinders
+2021-12-25,0.0,Flinders
+2021-12-24,0.0,Flinders
+2021-12-23,0.0,Flinders
+2021-12-22,0.0,Flinders
+2021-12-21,0.0,Flinders
+2021-12-20,0.0,Flinders
+2021-12-31,1.0,McKinlay
+2021-12-30,1.0,McKinlay
+2021-12-29,1.0,McKinlay
+2021-12-28,0.0,McKinlay
+2021-12-27,0.0,McKinlay
+2021-12-25,0.0,McKinlay
+2021-12-24,0.0,McKinlay
+2021-12-23,0.0,McKinlay
+2021-12-22,0.0,McKinlay
+2021-12-21,0.0,McKinlay
+2021-12-20,0.0,McKinlay
+2021-12-31,0.0,Woorabinda
+2021-12-30,0.0,Woorabinda
+2021-12-29,0.0,Woorabinda
+2021-12-28,0.0,Woorabinda
+2021-12-27,0.0,Woorabinda
+2021-12-25,0.0,Woorabinda
+2021-12-24,0.0,Woorabinda
+2021-12-23,0.0,Woorabinda
+2021-12-22,0.0,Woorabinda
+2021-12-21,0.0,Woorabinda
+2021-12-20,0.0,Woorabinda
+2021-12-31,0.0,Aurukun
+2021-12-30,0.0,Aurukun
+2021-12-29,0.0,Aurukun
+2021-12-28,0.0,Aurukun
+2021-12-27,0.0,Aurukun
+2021-12-25,0.0,Aurukun
+2021-12-24,0.0,Aurukun
+2021-12-23,0.0,Aurukun
+2021-12-22,0.0,Aurukun
+2021-12-21,0.0,Aurukun
+2021-12-20,0.0,Aurukun
+2021-12-31,0.0,Barcaldine
+2021-12-30,0.0,Barcaldine
+2021-12-29,0.0,Barcaldine
+2021-12-28,0.0,Barcaldine
+2021-12-27,0.0,Barcaldine
+2021-12-25,0.0,Barcaldine
+2021-12-24,0.0,Barcaldine
+2021-12-23,0.0,Barcaldine
+2021-12-22,0.0,Barcaldine
+2021-12-21,0.0,Barcaldine
+2021-12-20,0.0,Barcaldine
+2021-12-31,0.0,Barcoo
+2021-12-30,0.0,Barcoo
+2021-12-29,0.0,Barcoo
+2021-12-28,0.0,Barcoo
+2021-12-27,0.0,Barcoo
+2021-12-25,0.0,Barcoo
+2021-12-24,0.0,Barcoo
+2021-12-23,0.0,Barcoo
+2021-12-22,0.0,Barcoo
+2021-12-21,0.0,Barcoo
+2021-12-20,0.0,Barcoo
+2021-12-31,0.0,Boulia
+2021-12-30,0.0,Boulia
+2021-12-29,0.0,Boulia
+2021-12-28,0.0,Boulia
+2021-12-27,0.0,Boulia
+2021-12-25,0.0,Boulia
+2021-12-24,0.0,Boulia
+2021-12-23,0.0,Boulia
+2021-12-22,0.0,Boulia
+2021-12-21,0.0,Boulia
+2021-12-20,0.0,Boulia
+2021-12-31,0.0,Bulloo
+2021-12-30,0.0,Bulloo
+2021-12-29,0.0,Bulloo
+2021-12-28,0.0,Bulloo
+2021-12-27,0.0,Bulloo
+2021-12-25,0.0,Bulloo
+2021-12-24,0.0,Bulloo
+2021-12-23,0.0,Bulloo
+2021-12-22,0.0,Bulloo
+2021-12-21,0.0,Bulloo
+2021-12-20,0.0,Bulloo
+2021-12-31,0.0,Burke
+2021-12-30,0.0,Burke
+2021-12-29,0.0,Burke
+2021-12-28,0.0,Burke
+2021-12-27,0.0,Burke
+2021-12-25,0.0,Burke
+2021-12-24,0.0,Burke
+2021-12-23,0.0,Burke
+2021-12-22,0.0,Burke
+2021-12-21,0.0,Burke
+2021-12-20,0.0,Burke
+2021-12-31,0.0,Carpentaria
+2021-12-30,0.0,Carpentaria
+2021-12-29,0.0,Carpentaria
+2021-12-28,0.0,Carpentaria
+2021-12-27,0.0,Carpentaria
+2021-12-25,0.0,Carpentaria
+2021-12-24,0.0,Carpentaria
+2021-12-23,0.0,Carpentaria
+2021-12-22,0.0,Carpentaria
+2021-12-21,0.0,Carpentaria
+2021-12-20,0.0,Carpentaria
+2021-12-31,0.0,Croydon
+2021-12-30,0.0,Croydon
+2021-12-29,0.0,Croydon
+2021-12-28,0.0,Croydon
+2021-12-27,0.0,Croydon
+2021-12-25,0.0,Croydon
+2021-12-24,0.0,Croydon
+2021-12-23,0.0,Croydon
+2021-12-22,0.0,Croydon
+2021-12-21,0.0,Croydon
+2021-12-20,0.0,Croydon
+2021-12-31,0.0,Diamantina
+2021-12-30,0.0,Diamantina
+2021-12-29,0.0,Diamantina
+2021-12-28,0.0,Diamantina
+2021-12-27,0.0,Diamantina
+2021-12-25,0.0,Diamantina
+2021-12-24,0.0,Diamantina
+2021-12-23,0.0,Diamantina
+2021-12-22,0.0,Diamantina
+2021-12-21,0.0,Diamantina
+2021-12-20,0.0,Diamantina
+2021-12-31,0.0,Etheridge
+2021-12-30,0.0,Etheridge
+2021-12-29,0.0,Etheridge
+2021-12-28,0.0,Etheridge
+2021-12-27,0.0,Etheridge
+2021-12-25,0.0,Etheridge
+2021-12-24,0.0,Etheridge
+2021-12-23,0.0,Etheridge
+2021-12-22,0.0,Etheridge
+2021-12-21,0.0,Etheridge
+2021-12-20,0.0,Etheridge
+2021-12-31,0.0,Hope Vale
+2021-12-30,0.0,Hope Vale
+2021-12-29,0.0,Hope Vale
+2021-12-28,0.0,Hope Vale
+2021-12-27,0.0,Hope Vale
+2021-12-25,0.0,Hope Vale
+2021-12-24,0.0,Hope Vale
+2021-12-23,0.0,Hope Vale
+2021-12-22,0.0,Hope Vale
+2021-12-21,0.0,Hope Vale
+2021-12-20,0.0,Hope Vale
+2021-12-31,0.0,Kowanyama
+2021-12-30,0.0,Kowanyama
+2021-12-29,0.0,Kowanyama
+2021-12-28,0.0,Kowanyama
+2021-12-27,0.0,Kowanyama
+2021-12-25,0.0,Kowanyama
+2021-12-24,0.0,Kowanyama
+2021-12-23,0.0,Kowanyama
+2021-12-22,0.0,Kowanyama
+2021-12-21,0.0,Kowanyama
+2021-12-20,0.0,Kowanyama
+2021-12-31,0.0,Mapoon
+2021-12-30,0.0,Mapoon
+2021-12-29,0.0,Mapoon
+2021-12-28,0.0,Mapoon
+2021-12-27,0.0,Mapoon
+2021-12-25,0.0,Mapoon
+2021-12-24,0.0,Mapoon
+2021-12-23,0.0,Mapoon
+2021-12-22,0.0,Mapoon
+2021-12-21,0.0,Mapoon
+2021-12-20,0.0,Mapoon
+2021-12-31,0.0,Mornington
+2021-12-30,0.0,Mornington
+2021-12-29,0.0,Mornington
+2021-12-28,0.0,Mornington
+2021-12-27,0.0,Mornington
+2021-12-25,0.0,Mornington
+2021-12-24,0.0,Mornington
+2021-12-23,0.0,Mornington
+2021-12-22,0.0,Mornington
+2021-12-21,0.0,Mornington
+2021-12-20,0.0,Mornington
+2021-12-31,0.0,Napranum
+2021-12-30,0.0,Napranum
+2021-12-29,0.0,Napranum
+2021-12-28,0.0,Napranum
+2021-12-27,0.0,Napranum
+2021-12-25,0.0,Napranum
+2021-12-24,0.0,Napranum
+2021-12-23,0.0,Napranum
+2021-12-22,0.0,Napranum
+2021-12-21,0.0,Napranum
+2021-12-20,0.0,Napranum
+2021-12-31,0.0,Pormpuraaw
+2021-12-30,0.0,Pormpuraaw
+2021-12-29,0.0,Pormpuraaw
+2021-12-28,0.0,Pormpuraaw
+2021-12-27,0.0,Pormpuraaw
+2021-12-25,0.0,Pormpuraaw
+2021-12-24,0.0,Pormpuraaw
+2021-12-23,0.0,Pormpuraaw
+2021-12-22,0.0,Pormpuraaw
+2021-12-21,0.0,Pormpuraaw
+2021-12-20,0.0,Pormpuraaw
+2021-12-31,0.0,Richmond
+2021-12-30,0.0,Richmond
+2021-12-29,0.0,Richmond
+2021-12-28,0.0,Richmond
+2021-12-27,0.0,Richmond
+2021-12-25,0.0,Richmond
+2021-12-24,0.0,Richmond
+2021-12-23,0.0,Richmond
+2021-12-22,0.0,Richmond
+2021-12-21,0.0,Richmond
+2021-12-20,0.0,Richmond
+2021-12-31,0.0,Torres Strait Island
+2021-12-30,0.0,Torres Strait Island
+2021-12-29,0.0,Torres Strait Island
+2021-12-28,0.0,Torres Strait Island
+2021-12-27,0.0,Torres Strait Island
+2021-12-25,0.0,Torres Strait Island
+2021-12-24,0.0,Torres Strait Island
+2021-12-23,0.0,Torres Strait Island
+2021-12-22,0.0,Torres Strait Island
+2021-12-21,0.0,Torres Strait Island
+2021-12-20,0.0,Torres Strait Island
+2021-12-31,0.0,Weipa
+2021-12-30,0.0,Weipa
+2021-12-29,0.0,Weipa
+2021-12-28,0.0,Weipa
+2021-12-27,0.0,Weipa
+2021-12-25,0.0,Weipa
+2021-12-24,0.0,Weipa
+2021-12-23,0.0,Weipa
+2021-12-22,0.0,Weipa
+2021-12-21,0.0,Weipa
+2021-12-20,0.0,Weipa
+2021-12-31,0.0,Winton
+2021-12-30,0.0,Winton
+2021-12-29,0.0,Winton
+2021-12-28,0.0,Winton
+2021-12-27,0.0,Winton
+2021-12-25,0.0,Winton
+2021-12-24,0.0,Winton
+2021-12-23,0.0,Winton
+2021-12-22,0.0,Winton
+2021-12-21,0.0,Winton
+2021-12-20,0.0,Winton
+2021-12-31,0.0,Wujal Wujal
+2021-12-30,0.0,Wujal Wujal
+2021-12-29,0.0,Wujal Wujal
+2021-12-28,0.0,Wujal Wujal
+2021-12-27,0.0,Wujal Wujal
+2021-12-25,0.0,Wujal Wujal
+2021-12-24,0.0,Wujal Wujal
+2021-12-23,0.0,Wujal Wujal
+2021-12-22,0.0,Wujal Wujal
+2021-12-21,0.0,Wujal Wujal
+2021-12-20,0.0,Wujal Wujal
+2021-12-31,0.0,Yarrabah
+2021-12-30,0.0,Yarrabah
+2021-12-29,0.0,Yarrabah
+2021-12-28,0.0,Yarrabah
+2021-12-27,0.0,Yarrabah
+2021-12-25,0.0,Yarrabah
+2021-12-24,0.0,Yarrabah
+2021-12-23,0.0,Yarrabah
+2021-12-22,0.0,Yarrabah
+2021-12-21,0.0,Yarrabah
+2021-12-20,0.0,Yarrabah
